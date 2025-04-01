@@ -1,1 +1,22 @@
-/* You can add global styles to this file, and also import other style files */
+@import "./theme-light.css";
+@import "./theme-dark.css";
+
+body {
+  font-size: var(--usa-font-size-md);
+  background-color: var(--usa-color-base-lightest);
+  color: var(--usa-color-base-ink);
+}
+.contenedor {
+  padding: 20px;
+}
+
+.componente1 {
+  border: 1px solid var(--border-color);
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.componente2 {
+  border: 1px solid var(--border-color);
+  padding: 10px;
+}

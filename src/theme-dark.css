@@ -1,0 +1,5 @@
+.dark-theme {
+  --bg-color: var(--usa-color-base-darker);
+  --text-color: var(--usa-color-base-lightest);
+  --border-color: var(--usa-color-base-dark);
+}

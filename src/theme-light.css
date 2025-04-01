@@ -1,0 +1,5 @@
+:root {
+  --bg-color: var(--usa-color-base-lightest);
+  --text-color: var(--usa-color-base-ink);
+  --border-color: var(--usa-color-base-light);
+}
